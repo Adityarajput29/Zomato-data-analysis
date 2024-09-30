@@ -1,8 +1,8 @@
 **Zomato Data Analysis Using Python**
+
 This project involves analyzing Zomato restaurant data to derive insights into consumer preferences and restaurant trends. By leveraging various data analysis techniques, the project aims to answer key business questions related to online delivery, restaurant types, and preferred price ranges.
 
-**Business Problem**
-
+**Business Problem** 
 The primary goal is to understand customer behavior regarding online vs. offline services, popular restaurant categories, and pricing preferences. This analysis provides valuable insights for restaurant owners and stakeholders to optimize their services and target the right audience.
 
 **Techniques and Tools**
